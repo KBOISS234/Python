@@ -1,0 +1,31 @@
+1. **String Length**
+   - Write a function `string_length` that takes a string and returns its length.
+
+2. **Count Vowels**
+   - Write a function `count_vowels` that takes a string and returns the number of vowels in it.
+
+3. **Palindrome Check**
+   - Write a function `is_palindrome` that takes a string and returns `True` if the string is a palindrome and `False` otherwise.
+
+4. **Count Words**
+   - Write a function `count_words` that takes a string and returns the number of words in it.
+
+5. **Capitalize Each Word**
+   - Write a function `capitalize_words` that takes a string and returns the string with each word capitalized.
+
+6. **Remove Punctuation**
+   - Write a function `remove_punctuation` that takes a string and returns the string with all punctuation removed.
+
+7. **Reverse Words in a Sentence**
+   - Write a function `reverse_words` that takes a string and returns the string with the order of the words reversed.
+
+8. **Count Specific Character**
+   - Write a function `count_character` that takes a string and a character and returns the number of times the character appears in the string.
+
+9. **Remove Spaces**
+   - Write a function `remove_spaces` that takes a string and returns the string with all spaces removed.
+
+10. **Alternate Case**
+    - Write a function `alternate_case` that takes a string and returns the string with each character's case alternated.
+
+These exercises will help you practice string manipulation, functions, conditions, loops, and variables in Python.
